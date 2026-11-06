@@ -1,5 +1,7 @@
 # Sushant Labs Apps
 
+Open the repo directly: [SushantsWebsite/sushant-labs-apps](https://github.com/SushantsWebsite/sushant-labs-apps)
+
 One repo that turns 25-minute Python builds into live products:
 
     build app  ->  ship.py  ->  GitHub Release (Win/macOS/Linux)  ->  storefront site  ->  revenue
@@ -28,6 +30,10 @@ Run locally from the repository root:
 
     pip install -r requirements.txt
     streamlit run streamlit_app.py
+
+Or open the GitHub repository directly:
+
+    https://github.com/SushantsWebsite/sushant-labs-apps
 
 The browser shows a navigable file tree, supports filename/path search and an apps-only filter, renders README files as Markdown, and displays other text files with syntax highlighting. It reads from the public GitHub repository and does not execute repository files.
 
