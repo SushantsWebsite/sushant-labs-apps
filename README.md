@@ -15,11 +15,23 @@ One repo that turns 25-minute Python builds into live products:
 | `.github/workflows/release.yml` | On tag: builds Windows, macOS and Linux binaries and publishes a Release |
 | `.github/workflows/pages.yml` | Builds and deploys the storefront to GitHub Pages |
 | `.github/workflows/ci.yml` | Compiles, validates the catalog and runs the tests on every push |
+| `streamlit_app.py` | Read-only browser for exploring this repository's files |
 | `.github/ISSUE_TEMPLATE/custom-build.yml` | Turns visitors into custom-build leads |
 | `REVENUE.md` | The money map and a weekly loop |
 | `launch/post-templates.md` | Ready-to-paste build-in-public posts |
 
 Included and working: **Focus Timer**, **Password Generator**, **Typing Speed Test**. The other 12 ideas are in the catalog as "Up next".
+
+## Browse this repository with Streamlit
+
+Run locally from the repository root:
+
+    pip install -r requirements.txt
+    streamlit run streamlit_app.py
+
+The browser shows a navigable file tree, supports filename/path search and an apps-only filter, renders README files as Markdown, and displays other text files with syntax highlighting. It reads from the public GitHub repository and does not execute repository files.
+
+To host it on Streamlit Community Cloud, create an app from this repository and set `streamlit_app.py` as the entry point.
 
 ## Go live in about 10 minutes
 
