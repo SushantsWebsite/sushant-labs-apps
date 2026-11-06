@@ -1,0 +1,339 @@
+﻿Rank,Slug,App,Category,What it does,Libraries,Build minutes,Visual appeal (1-5),Ship-first score,Money angle,Status
+5,pomodoro,Focus Timer,Productivity & Focus,Pomodoro with progress ring and session counter,std,25,5,14.3,"Free app, bundle, build-in-public",Built
+126,habit-tracker,Habit Tracker,Productivity & Focus,Daily check-offs and streaks stored in SQLite,std,45,4,11.0,"Free app, bundle, build-in-public",In catalog
+101,task-board,Task Board,Productivity & Focus,"Drag cards across To Do, Doing and Done",std,60,5,12.0,"Free app, bundle, build-in-public",Idea
+290,quick-notes,Quick Notes,Productivity & Focus,"Instant notes with search, saved as local files",std,45,3,9.0,"Free app, bundle, build-in-public",Idea
+149,sticky-notes,Sticky Notes,Productivity & Focus,Floating always-on-top notes on the desktop,std,45,4,11.0,"Free app, bundle, build-in-public",Idea
+116,daily-planner,Daily Planner,Productivity & Focus,Hour-by-hour day planner with time blocks,std,45,4,11.0,"Free app, bundle, build-in-public",Idea
+125,goal-tracker,Goal Tracker,Productivity & Focus,Goals with progress bars and deadlines,std,45,4,11.0,"Free app, bundle, build-in-public",Idea
+156,time-tracker,Time Tracker,Productivity & Focus,Start/stop timers per project with weekly totals,std,45,4,11.0,"Free app, bundle, build-in-public",Idea
+65,priority-matrix,Priority Matrix,Productivity & Focus,Sort tasks into urgent/important quadrants,std,25,4,12.3,"Free app, bundle, build-in-public",Idea
+166,break-reminder,Break Reminder,Productivity & Focus,Stretch and eye-rest popups on a schedule,std,25,3,10.3,"Free app, bundle, build-in-public",Idea
+112,clipboard-history,Clipboard History,Productivity & Focus,Keep and search the last 100 copied items,pyperclip,45,4,11.0,"Free app, bundle, build-in-public",Idea
+321,text-expander,Text Expander,Productivity & Focus,"Type a short code, get a saved snippet",pynput,60,3,8.0,"Free app, bundle, build-in-public",Idea
+46,countdown-board,Countdown Board,Productivity & Focus,"Countdowns to launches, trips and deadlines",std,25,4,12.3,"Free app, bundle, build-in-public",Idea
+291,reading-list,Reading List,Productivity & Focus,Track books and articles with status and notes,std,45,3,9.0,"Free app, bundle, build-in-public",Idea
+8,meeting-cost-meter,Meeting Cost Meter,Productivity & Focus,Live running cost of a meeting by attendee rates,std,25,5,14.3,"Free app, bundle, build-in-public",Idea
+271,daily-journal,Daily Journal,Productivity & Focus,One-line prompted journal with calendar view,std,45,3,9.0,"Free app, bundle, build-in-public",Idea
+61,password-gen,Password Generator,Security & Privacy,"Strong random passwords, one-click copy",std,25,4,12.3,"Free app, trust builds leads",Built
+337,password-vault,Password Vault,Security & Privacy,Encrypted local password manager,cryptography,90,3,6.0,"Free app, trust builds leads",Idea
+62,password-strength-checker,Password Strength Checker,Security & Privacy,Live entropy and pattern feedback,std,25,4,12.3,"Free app, trust builds leads",Idea
+262,breach-checker,Breach Checker,Security & Privacy,Check a password against breach lists using k-anonymity,requests,45,3,9.0,"Free app, trust builds leads",Idea
+278,file-encryptor,File Encryptor,Security & Privacy,Encrypt and decrypt files with a passphrase,cryptography,45,3,9.0,"Free app, trust builds leads",Idea
+174,file-shredder,File Shredder,Security & Privacy,Overwrite files before deleting (best-effort),std,25,3,10.3,"Free app, trust builds leads",Idea
+178,hash-checker,Hash Checker,Security & Privacy,"Compare file hashes (SHA-256, MD5) to verify downloads",std,25,3,10.3,"Free app, trust builds leads",Idea
+104,2fa-code-viewer,2FA Code Viewer,Security & Privacy,Generate TOTP codes from a secret,pyotp,45,4,11.0,"Free app, trust builds leads",Idea
+134,metadata-stripper,Metadata Stripper,Security & Privacy,Remove EXIF data from photos in bulk,pillow,45,4,11.0,"Free app, trust builds leads",Idea
+284,link-safety-checker,Link Safety Checker,Security & Privacy,Expand short URLs and show where they really go,requests,45,3,9.0,"Free app, trust builds leads",Idea
+190,passphrase-maker,Passphrase Maker,Security & Privacy,Memorable word-based passphrases,std,25,3,10.3,"Free app, trust builds leads",Idea
+317,secret-splitter,Secret Splitter,Security & Privacy,"Split a secret into shares, recover with a threshold",std,60,3,8.0,"Free app, trust builds leads",Idea
+4,file-organizer,File Organizer,File & System Utilities,Sort a messy folder into subfolders by file type,std,25,5,14.3,"Free app, bundle",In catalog
+120,duplicate-finder,Duplicate Finder,File & System Utilities,Find duplicate files by content hash,std,45,4,11.0,"Free app, bundle",Idea
+109,bulk-renamer,Bulk Renamer,File & System Utilities,Rename many files with patterns and a live preview,std,45,4,11.0,"Free app, bundle",Idea
+85,disk-usage-map,Disk Usage Map,File & System Utilities,Treemap of what is eating your storage,std,60,5,12.0,"Free app, bundle",Idea
+51,folder-size-ranker,Folder Size Ranker,File & System Utilities,Largest folders ranked in a bar list,std,25,4,12.3,"Free app, bundle",Idea
+172,empty-folder-cleaner,Empty Folder Cleaner,File & System Utilities,Find and remove empty folders,std,25,3,10.3,"Free app, bundle",Idea
+119,downloads-auto-sorter,Downloads Auto-Sorter,File & System Utilities,Background watcher that files new downloads,watchdog,45,4,11.0,"Free app, bundle",Idea
+279,file-search,File Search,File & System Utilities,Fast filename and content search in a folder,std,45,3,9.0,"Free app, bundle",Idea
+303,zip-manager,Zip Manager,File & System Utilities,Create and extract archives in a drag-and-drop window,std,45,3,9.0,"Free app, bundle",Idea
+311,backup-scheduler,Backup Scheduler,File & System Utilities,Scheduled folder backups with a restore list,std,60,3,8.0,"Free app, bundle",Idea
+216,folder-sync,Folder Sync,File & System Utilities,One-way sync of two folders with a diff view,std,60,4,10.0,"Free app, bundle",Idea
+37,system-monitor,System Monitor,File & System Utilities,"Live CPU, RAM and disk gauges",psutil,45,5,13.0,"Free app, bundle",Idea
+288,process-viewer,Process Viewer,File & System Utilities,Sortable process list with an end-task button,psutil,45,3,9.0,"Free app, bundle",Idea
+334,startup-viewer,Startup Viewer,File & System Utilities,List programs that launch at startup (Windows),winreg,45,2,7.0,"Free app, bundle",Idea
+164,battery-monitor,Battery Monitor,File & System Utilities,Battery level alerts and history,psutil,25,3,10.3,"Free app, bundle",Idea
+136,network-speed-test,Network Speed Test,File & System Utilities,Download and upload speed with a history chart,speedtest-cli,45,4,11.0,"Free app, bundle",Idea
+185,local-port-scanner,Local Port Scanner,File & System Utilities,See which ports are open on your own machine,std,25,3,10.3,"Free app, bundle",Idea
+144,screenshot-tool,Screenshot Tool,File & System Utilities,Region capture with save and clipboard,pillow,45,4,11.0,"Free app, bundle",Idea
+26,markdown-preview,Markdown to HTML,Text & Writing,"Paste Markdown, get a live HTML preview",markdown,45,5,13.0,Lead magnet for content services,In catalog
+79,word-counter,Word Counter,Text & Writing,"Words, characters, reading time and keyword density",std,25,4,12.3,Lead magnet for content services,Idea
+71,readability-scorer,Readability Scorer,Text & Writing,Flesch score and grade level with tips,std,25,4,12.3,Lead magnet for content services,Idea
+154,text-diff-viewer,Text Diff Viewer,Text & Writing,Side-by-side difference highlighter,std,45,4,11.0,Lead magnet for content services,Idea
+168,case-converter,Case Converter,Text & Writing,"camelCase, snake_case and Title Case in one click",std,25,3,10.3,Lead magnet for content services,Idea
+260,batch-find-and-replace,Batch Find and Replace,Text & Writing,Regex replace across many files with preview,std,45,3,9.0,Lead magnet for content services,Idea
+305,lorem-ipsum-generator,Lorem Ipsum Generator,Text & Writing,"Placeholder text by words, paragraphs or tone",std,25,2,8.3,Lead magnet for content services,Idea
+199,slug-generator,Slug Generator,Text & Writing,Clean URL slugs from titles,std,25,3,10.3,Lead magnet for content services,Idea
+202,text-cleaner,Text Cleaner,Text & Writing,"Strip extra spaces, smart quotes and duplicate lines",std,25,3,10.3,Lead magnet for content services,Idea
+11,typing-test,Typing Speed Test,Text & Writing,"30 seconds, live feedback, WPM and accuracy",std,25,5,14.3,Lead magnet for content services,Built
+295,snippet-library,Snippet Library,Text & Writing,Save and copy reusable text blocks,std,45,3,9.0,Lead magnet for content services,Idea
+121,email-signature-maker,Email Signature Maker,Text & Writing,Build and copy HTML email signatures,std,45,4,11.0,Lead magnet for content services,Idea
+265,citation-formatter,Citation Formatter,Text & Writing,Format references in common styles,std,45,3,9.0,Lead magnet for content services,Idea
+296,subtitle-fixer,Subtitle Fixer,Text & Writing,Clean and retime .srt subtitle files,std,45,3,9.0,Lead magnet for content services,Idea
+48,emoji-picker,Emoji Picker,Text & Writing,Searchable emoji panel with one-click copy,std,25,4,12.3,Lead magnet for content services,Idea
+81,writing-sprint,Writing Sprint,Text & Writing,Timed writing sessions with a word goal,std,25,4,12.3,Lead magnet for content services,Idea
+56,json-formatter,JSON Formatter,Developer Tools,"Pretty-print, validate and minify JSON",std,25,4,12.3,"GitHub stars, sponsors",Idea
+182,json-to-csv,JSON to CSV,Developer Tools,Flatten JSON into spreadsheets,pandas,25,3,10.3,"GitHub stars, sponsors",Idea
+111,csv-viewer,CSV Viewer,Developer Tools,"Open, sort and filter any CSV",std,45,4,11.0,"GitHub stars, sponsors",Idea
+34,regex-tester,Regex Tester,Developer Tools,Live match highlighting with explanations,std,45,5,13.0,"GitHub stars, sponsors",Idea
+304,base64-tool,Base64 Tool,Developer Tools,Encode and decode text and files,std,25,2,8.3,"GitHub stars, sponsors",Idea
+310,uuid-generator,UUID Generator,Developer Tools,Bulk UUIDs in several formats,std,25,2,8.3,"GitHub stars, sponsors",Idea
+20,color-picker,Color Picker,Developer Tools,"Pick screen colours, copy HEX, RGB and HSL",pillow,45,5,13.0,"GitHub stars, sponsors",Idea
+32,palette-generator,Palette Generator,Developer Tools,Harmonious colour palettes from one colour,std,45,5,13.0,"GitHub stars, sponsors",Idea
+269,cron-explainer,Cron Explainer,Developer Tools,Plain-English translation of cron schedules,std,45,3,9.0,"GitHub stars, sponsors",Idea
+308,timestamp-converter,Timestamp Converter,Developer Tools,Convert epoch times and dates across timezones,std,25,2,8.3,"GitHub stars, sponsors",Idea
+90,git-repo-stats,Git Repo Stats,Developer Tools,Commit heatmap and author stats for a repo,gitpython,60,5,12.0,"GitHub stars, sponsors",Idea
+142,readme-generator,README Generator,Developer Tools,"Fill a form, get a polished README",std,45,4,11.0,"GitHub stars, sponsors",Idea
+210,api-request-tester,API Request Tester,Developer Tools,"Mini Postman: send requests, view responses",requests,60,4,10.0,"GitHub stars, sponsors",Idea
+275,env-file-manager,Env File Manager,Developer Tools,Compare and merge .env files safely,std,45,3,9.0,"GitHub stars, sponsors",Idea
+170,code-line-counter,Code Line Counter,Developer Tools,Lines of code by language,std,25,3,10.3,"GitHub stars, sponsors",Idea
+201,todo-finder,TODO Finder,Developer Tools,Scan a repo for TODO and FIXME comments,std,25,3,10.3,"GitHub stars, sponsors",Idea
+131,log-viewer,Log Viewer,Developer Tools,Tail and filter log files with coloured levels,std,45,4,11.0,"GitHub stars, sponsors",Idea
+84,code-to-image,Code to Image,Developer Tools,Turn code into a shareable styled image,"pillow, pygments",60,5,12.0,"GitHub stars, sponsors",Idea
+189,package-update-checker,Package Update Checker,Developer Tools,Show outdated pip packages,std,25,3,10.3,"GitHub stars, sponsors",Idea
+130,localhost-dashboard,Localhost Dashboard,Developer Tools,See which dev servers run on which ports,psutil,45,4,11.0,"GitHub stars, sponsors",Idea
+123,expense-tracker,Expense Tracker,Data & Spreadsheets,"Add and delete entries, see totals, saved to CSV",std,45,4,11.0,Custom-build upsell to business users,In catalog
+276,excel-merger,Excel Merger,Data & Spreadsheets,Combine many workbooks into one,openpyxl,45,3,9.0,Custom-build upsell to business users,Idea
+110,csv-cleaner,CSV Cleaner,Data & Spreadsheets,"Trim, dedupe and fix columns in a click",pandas,45,4,11.0,Custom-build upsell to business users,Idea
+228,pivot-quick-view,Pivot Quick-View,Data & Spreadsheets,Pivot tables from any CSV without formulas,pandas,60,4,10.0,Custom-build upsell to business users,Idea
+117,data-profiler,Data Profiler,Data & Spreadsheets,Instant column stats and missing-value report,pandas,45,4,11.0,Custom-build upsell to business users,Idea
+171,duplicate-row-finder,Duplicate Row Finder,Data & Spreadsheets,Highlight and export duplicate rows,pandas,25,3,10.3,Custom-build upsell to business users,Idea
+313,excel-to-pdf,Excel to PDF,Data & Spreadsheets,Batch convert sheets to PDFs,"openpyxl, reportlab",60,3,8.0,Custom-build upsell to business users,Idea
+196,sheet-splitter,Sheet Splitter,Data & Spreadsheets,Split a sheet into files by column value,pandas,25,3,10.3,Custom-build upsell to business users,Idea
+18,chart-maker,Chart Maker,Data & Spreadsheets,"CSV in, styled chart PNG out",matplotlib,45,5,13.0,Custom-build upsell to business users,Idea
+240,survey-analyzer,Survey Analyzer,Data & Spreadsheets,Summarize survey CSVs with charts,"pandas, matplotlib",60,4,10.0,Custom-build upsell to business users,Idea
+336,invoice-data-extractor,Invoice Data Extractor,Data & Spreadsheets,Pull totals from PDF invoices into a sheet,pdfplumber,90,3,6.0,Custom-build upsell to business users,Idea
+205,unit-converter,Unit Converter,Data & Spreadsheets,"Length, weight, temperature and data size",std,25,3,10.3,Custom-build upsell to business users,Idea
+173,fake-data-generator,Fake Data Generator,Data & Spreadsheets,"Names, emails and rows for testing",faker,25,3,10.3,Custom-build upsell to business users,Idea
+234,sqlite-browser,SQLite Browser,Data & Spreadsheets,View and query a SQLite database,std,60,4,10.0,Custom-build upsell to business users,Idea
+243,price-scraper,Web Scraper to Excel,Web Scraping & Automation,Pull prices or headlines into a spreadsheet,"requests, bs4, openpyxl",60,4,10.0,High custom-build upsell,In catalog
+230,price-drop-alert,Price Drop Alert,Web Scraping & Automation,Watch a product page and notify on price change,"requests, bs4",60,4,10.0,High custom-build upsell,Idea
+280,headline-tracker,Headline Tracker,Web Scraping & Automation,Collect headlines from chosen sites daily,feedparser,45,3,9.0,High custom-build upsell,Idea
+233,rss-reader,RSS Reader,Web Scraping & Automation,Simple desktop feed reader,feedparser,60,4,10.0,High custom-build upsell,Idea
+157,uptime-monitor,Uptime Monitor,Web Scraping & Automation,"Ping sites, log downtime, alert",requests,45,4,11.0,High custom-build upsell,Idea
+107,broken-link-checker,Broken Link Checker,Web Scraping & Automation,Crawl a page and list dead links,"requests, bs4",45,4,11.0,High custom-build upsell,Idea
+197,sitemap-crawler,Sitemap Crawler,Web Scraping & Automation,Export every URL from a sitemap,requests,25,3,10.3,High custom-build upsell,Idea
+335,form-autofill,Form Autofill,Web Scraping & Automation,Fill repeated forms from a CSV (on your own sites),playwright,90,3,6.0,High custom-build upsell,Idea
+235,screenshot-scheduler,Screenshot Scheduler,Web Scraping & Automation,Capture web pages on a schedule,playwright,60,4,10.0,High custom-build upsell,Idea
+300,video-transcript-grabber,Video Transcript Grabber,Web Scraping & Automation,Fetch transcripts for videos that have them,youtube-transcript-api,45,3,9.0,High custom-build upsell,Idea
+314,google-sheets-sync,Google Sheets Sync,Web Scraping & Automation,Push script results into a Google Sheet,gspread +API,60,3,8.0,High custom-build upsell,Idea
+270,daily-email-report,Daily Email Report,Web Scraping & Automation,Send a report from a CSV on a schedule,std,45,3,9.0,High custom-build upsell,Idea
+207,wikipedia-summarizer,Wikipedia Summarizer,Web Scraping & Automation,Short summaries of any topic,wikipedia-api,25,3,10.3,High custom-build upsell,Idea
+315,listing-watcher,Listing Watcher,Web Scraping & Automation,Track new listings on pages you choose,"requests, bs4",60,3,8.0,High custom-build upsell,Idea
+272,domain-expiry-checker,Domain Expiry Checker,Web Scraping & Automation,Check domain expiry dates in bulk,python-whois,45,3,9.0,High custom-build upsell,Idea
+302,weather-alert-bot,Weather Alert Bot,Web Scraping & Automation,Notify on rain or heat thresholds,requests +API,45,3,9.0,High custom-build upsell,Idea
+129,image-resizer,Image Resizer,Images & Media,Batch resize and compress a folder of images,pillow,45,4,11.0,"Free app, bundle",In catalog
+180,image-converter,Image Converter,Images & Media,"PNG, JPG and WebP batch converter",pillow,25,3,10.3,"Free app, bundle",Idea
+160,watermark-tool,Watermark Tool,Images & Media,Stamp text or a logo on many images,pillow,45,4,11.0,"Free app, bundle",Idea
+19,collage-maker,Collage Maker,Images & Media,Auto-grid photos into one image,pillow,45,5,13.0,"Free app, bundle",Idea
+27,meme-maker,Meme Maker,Images & Media,Add top and bottom captions to images,pillow,45,5,13.0,"Free app, bundle",Idea
+14,background-remover,Background Remover,Images & Media,One-click cutouts,rembg,45,5,13.0,"Free app, bundle",Idea
+128,image-compressor,Image Compressor,Images & Media,Shrink file size with a quality preview,pillow,45,4,11.0,"Free app, bundle",Idea
+3,color-extractor,Color Extractor,Images & Media,Dominant colours from any image,pillow,25,5,14.3,"Free app, bundle",Idea
+50,favicon-generator,Favicon Generator,Images & Media,All icon sizes from one image,pillow,25,4,12.3,"Free app, bundle",Idea
+256,screenshot-annotator,Screenshot Annotator,Images & Media,"Arrows, boxes and blur on screenshots",pillow,90,5,10.0,"Free app, bundle",Idea
+286,pdf-merger,PDF Merger,Images & Media,"Merge, split and reorder PDFs",pypdf,45,3,9.0,"Free app, bundle",Idea
+188,pdf-to-images,PDF to Images,Images & Media,Export PDF pages as PNGs,pdf2image,25,3,10.3,"Free app, bundle",Idea
+181,images-to-pdf,Images to PDF,Images & Media,Combine pictures into one PDF,pillow,25,3,10.3,"Free app, bundle",Idea
+138,ocr-text-grabber,OCR Text Grabber,Images & Media,Extract text from images,pytesseract,45,4,11.0,"Free app, bundle",Idea
+287,photo-date-sorter,Photo Date Sorter,Images & Media,Organize photos into year and month folders from EXIF,pillow,45,3,9.0,"Free app, bundle",Idea
+89,gif-maker,GIF Maker,Images & Media,Turn images or clips into GIFs,"pillow, imageio",60,5,12.0,"Free app, bundle",Idea
+94,music-player,Music Player,Audio & Video,Playlist player with a waveform visual,pygame,60,5,12.0,Content and bundle,Idea
+258,audio-converter,Audio Converter,Audio & Video,"MP3, WAV and FLAC batch convert",pydub,45,3,9.0,Content and bundle,Idea
+159,voice-recorder,Voice Recorder,Audio & Video,One-click recording with trim,sounddevice,45,4,11.0,Content and bundle,Idea
+77,text-to-speech-reader,Text to Speech Reader,Audio & Video,Read pasted text aloud,pyttsx3,25,4,12.3,Content and bundle,Idea
+118,dictation-notes,Dictation Notes,Audio & Video,Speak and get text notes,SpeechRecognition,45,4,11.0,Content and bundle,Idea
+9,metronome,Metronome,Audio & Video,Visual and audio beat with tap tempo,pygame,25,5,14.3,Content and bundle,Idea
+82,audio-visualizer,Audio Visualizer,Audio & Video,Live spectrum from the microphone,"sounddevice, numpy",60,5,12.0,Content and bundle,Idea
+242,video-trimmer,Video Trimmer,Audio & Video,Cut clips without re-encoding,ffmpeg,60,4,10.0,Content and bundle,Idea
+155,thumbnail-grabber,Thumbnail Grabber,Audio & Video,Pull frames at chosen timestamps,opencv,45,4,11.0,Content and bundle,Idea
+147,sound-board,Sound Board,Audio & Video,Hotkey sound effects,pygame,45,4,11.0,Content and bundle,Idea
+162,white-noise-mixer,White Noise Mixer,Audio & Video,"Layer rain, cafe and waves",pygame,45,4,11.0,Content and bundle,Idea
+92,guitar-tuner,Guitar Tuner,Audio & Video,Tuner from microphone input,"sounddevice, numpy",60,5,12.0,Content and bundle,Idea
+326,screen-recorder,Screen Recorder,Audio & Video,Region recording to MP4,"mss, opencv",90,4,8.0,Content and bundle,Idea
+36,snake,Snake,Games,Classic snake with a saved high score,pygame,45,5,13.0,"Audience growth, low direct revenue",In catalog
+30,paddle-duel,Paddle Duel,Games,Two-player paddle game with an AI mode,pygame,45,5,13.0,"Audience growth, low direct revenue",Idea
+83,brick-breaker,Brick Breaker,Games,"Paddle, ball, bricks and power-ups",pygame,60,5,12.0,"Audience growth, low direct revenue",Idea
+250,falling-blocks,Falling Blocks,Games,Stack and clear lines puzzle,pygame,90,5,10.0,"Audience growth, low direct revenue",Idea
+102,tile-merge,Tile Merge,Games,Slide and combine numbered tiles,pygame,60,5,12.0,"Audience growth, low direct revenue",Idea
+87,five-letter-guess,Five-Letter Guess,Games,Daily-style word guessing game,std,60,5,12.0,"Audience growth, low direct revenue",Idea
+53,hangman,Hangman,Games,Word guessing with a drawn gallows,std,25,4,12.3,"Audience growth, low direct revenue",Idea
+203,tic-tac-toe,Tic-Tac-Toe,Games,"Play the computer, unbeatable AI mode",std,25,3,10.3,"Audience growth, low direct revenue",Idea
+217,four-in-a-row,Four in a Row,Games,Drop discs and beat the AI,pygame,60,4,10.0,"Audience growth, low direct revenue",Idea
+225,mine-finder,Mine Finder,Games,Grid logic game with flags,std,60,4,10.0,"Audience growth, low direct revenue",Idea
+328,sudoku,Sudoku,Games,"Generator, solver and hints",std,90,4,8.0,"Audience growth, low direct revenue",Idea
+59,memory-match,Memory Match,Games,Flip cards to find pairs,std,25,4,12.3,"Audience growth, low direct revenue",Idea
+28,memory-pattern,Memory Pattern,Games,Repeat the growing colour sequence,pygame,45,5,13.0,"Audience growth, low direct revenue",Idea
+113,code-breaker,Code Breaker,Games,Guess the hidden colour code,std,45,4,11.0,"Audience growth, low direct revenue",Idea
+248,alien-waves,Alien Waves,Games,Shoot descending waves of invaders,pygame,90,5,10.0,"Audience growth, low direct revenue",Idea
+254,rock-blaster,Rock Blaster,Games,Drifting rocks and a rotating ship,pygame,90,5,10.0,"Audience growth, low direct revenue",Idea
+38,tap-flyer,Tap Flyer,Games,One-button obstacle flyer,pygame,45,5,13.0,"Audience growth, low direct revenue",Idea
+93,maze-runner,Maze Runner,Games,Random maze generator and solver,pygame,60,5,12.0,"Audience growth, low direct revenue",Idea
+103,typing-defense,Typing Defense,Games,Type words to destroy falling enemies,pygame,60,5,12.0,"Audience growth, low direct revenue",Idea
+70,reaction-timer,Reaction Timer,Games,Test your reaction speed,std,25,4,12.3,"Audience growth, low direct revenue",Idea
+187,number-guess,Number Guess,Games,Higher or lower with attempts and score,std,25,3,10.3,"Audience growth, low direct revenue",Idea
+47,dice-roller,Dice Roller,Games,Animated dice for tabletop games,std,25,4,12.3,"Audience growth, low direct revenue",Idea
+212,blackjack,Blackjack,Games,Card game against the dealer (no real money),std,60,4,10.0,"Audience growth, low direct revenue",Idea
+17,cellular-automaton-playground,Cellular Automaton Playground,Games,Draw cells and watch the rules evolve,pygame,45,5,13.0,"Audience growth, low direct revenue",Idea
+73,rock-paper-scissors,Rock Paper Scissors,Games,An AI that learns your patterns,std,25,4,12.3,"Audience growth, low direct revenue",Idea
+320,text-adventure-engine,Text Adventure Engine,Games,Build and play story games from JSON,std,60,3,8.0,"Audience growth, low direct revenue",Idea
+218,idle-clicker,Idle Clicker,Games,Upgrade-based incremental game,std,60,4,10.0,"Audience growth, low direct revenue",Idea
+329,terminal-roguelike,Terminal Roguelike,Games,Dungeon crawler in the terminal,curses,90,4,8.0,"Audience growth, low direct revenue",Idea
+141,quiz-app,Quiz Maker,Education & Learning,"Load questions from a JSON file, score at the end",std,45,4,11.0,"Bundle, classroom licences",In catalog
+215,flashcards,Flashcards,Education & Learning,Spaced-repetition cards with deck import,std,60,4,10.0,"Bundle, classroom licences",Idea
+158,vocabulary-trainer,Vocabulary Trainer,Education & Learning,Learn words with streaks,std,45,4,11.0,"Bundle, classroom licences",Idea
+58,math-drill,Math Drill,Education & Learning,Timed arithmetic practice with levels,std,25,4,12.3,"Bundle, classroom licences",Idea
+96,periodic-table-explorer,Periodic Table Explorer,Education & Learning,Click elements for facts,std,60,5,12.0,"Bundle, classroom licences",Idea
+241,typing-tutor,Typing Tutor,Education & Learning,Lessons from the home row up,std,60,4,10.0,"Bundle, classroom licences",Idea
+148,spelling-bee-trainer,Spelling Bee Trainer,Education & Learning,"Hear a word, spell it",pyttsx3,45,4,11.0,"Bundle, classroom licences",Idea
+283,language-phrasebook,Language Phrasebook,Education & Learning,Searchable phrases with audio,pyttsx3,45,3,9.0,"Bundle, classroom licences",Idea
+150,study-timer,Study Timer,Education & Learning,Pomodoro tied to subjects with weekly stats,std,45,4,11.0,"Bundle, classroom licences",Idea
+177,gpa-calculator,GPA Calculator,Education & Learning,Weighted GPA with what-if scenarios,std,25,3,10.3,"Bundle, classroom licences",Idea
+122,exam-planner,Exam Planner,Education & Learning,Study schedule generated from exam dates,std,45,4,11.0,"Bundle, classroom licences",Idea
+124,geography-quiz,Geography Quiz,Education & Learning,Capitals and flags,std,45,4,11.0,"Bundle, classroom licences",Idea
+114,coding-quiz,Coding Quiz,Education & Learning,Python questions with explanations,std,45,4,11.0,"Bundle, classroom licences",Idea
+165,binary-trainer,Binary Trainer,Education & Learning,Learn binary and hex interactively,std,25,3,10.3,"Bundle, classroom licences",Idea
+100,sorting-visualizer,Sorting Visualizer,Education & Learning,Animated sorting algorithms,pygame,60,5,12.0,"Bundle, classroom licences",Idea
+91,graph-plotter,Graph Plotter,Education & Learning,Plot equations with sliders,matplotlib,60,5,12.0,"Bundle, classroom licences",Idea
+253,physics-sandbox,Physics Sandbox,Education & Learning,Projectile and pendulum simulations,pygame,90,5,10.0,"Bundle, classroom licences",Idea
+115,currency-converter,Currency Converter,Finance & Money,Live exchange rates with a swap button,requests,45,4,11.0,"Custom-build upsell, bundle",In catalog
+108,budget-planner,Budget Planner,Finance & Money,Monthly budget with category bars,std,45,4,11.0,"Custom-build upsell, bundle",Idea
+24,loan-emi-calculator,Loan EMI Calculator,Finance & Money,Payment schedule with an amortization chart,matplotlib,45,5,13.0,"Custom-build upsell, bundle",Idea
+35,sip-growth-calculator,SIP Growth Calculator,Finance & Money,Compound growth projections with a chart,matplotlib,45,5,13.0,"Custom-build upsell, bundle",Idea
+151,subscription-tracker,Subscription Tracker,Finance & Money,Recurring costs and renewal dates,std,45,4,11.0,"Custom-build upsell, bundle",Idea
+43,bill-splitter,Bill Splitter,Finance & Money,Fair splits with tips and uneven shares,std,25,4,12.3,"Custom-build upsell, bundle",Idea
+74,savings-goal-tracker,Savings Goal Tracker,Finance & Money,Progress toward targets,std,25,4,12.3,"Custom-build upsell, bundle",Idea
+227,net-worth-tracker,Net Worth Tracker,Finance & Money,Assets minus debts over time,matplotlib,60,4,10.0,"Custom-build upsell, bundle",Idea
+195,salary-converter,Salary Converter,Finance & Money,"Hourly, monthly and yearly pay conversions",std,25,3,10.3,"Custom-build upsell, bundle",Idea
+338,receipt-scanner,Receipt Scanner,Finance & Money,Extract totals from receipt photos,pytesseract,90,3,6.0,"Custom-build upsell, bundle",Idea
+239,stock-watchlist,Stock Watchlist,Finance & Money,Simple price list from a free API,requests +API,60,4,10.0,"Custom-build upsell, bundle",Idea
+52,freelance-rate-calculator,Freelance Rate Calculator,Finance & Money,Hourly rate from your income goals,std,25,4,12.3,"Custom-build upsell, bundle",Idea
+44,break-even-calculator,Break-Even Calculator,Finance & Money,"Units and revenue to break even, with a chart",matplotlib,25,4,12.3,"Custom-build upsell, bundle",Idea
+282,invoice-aging-report,Invoice Aging Report,Finance & Money,Outstanding invoices grouped by age,pandas,45,3,9.0,"Custom-build upsell, bundle",Idea
+206,water-reminder,Water Reminder,Health & Fitness,Hydration reminders with a daily tally,std,25,3,10.3,"Audience, bundle (no medical claims)",Idea
+244,workout-logger,Workout Logger,Health & Fitness,Log sets and reps with progress charts,matplotlib,60,4,10.0,"Audience, bundle (no medical claims)",Idea
+55,interval-timer,Interval Timer,Health & Fitness,HIIT work and rest rounds,std,25,4,12.3,"Audience, bundle (no medical claims)",Idea
+146,sleep-log,Sleep Log,Health & Fitness,Bed and wake times with a weekly chart,matplotlib,45,4,11.0,"Audience, bundle (no medical claims)",Idea
+132,meal-planner,Meal Planner,Health & Fitness,Weekly meal grid and shopping list,std,45,4,11.0,"Audience, bundle (no medical claims)",Idea
+192,recipe-scaler,Recipe Scaler,Health & Fitness,Scale ingredient amounts to any serving count,std,25,3,10.3,"Audience, bundle (no medical claims)",Idea
+2,breathing-pacer,Breathing Pacer,Health & Fitness,Animated visual guide for paced breathing,std,25,5,14.3,"Audience, bundle (no medical claims)",Idea
+135,mood-log,Mood Log,Health & Fitness,Daily mood tags with a trend chart,matplotlib,45,4,11.0,"Audience, bundle (no medical claims)",Idea
+194,run-pace-calculator,Run Pace Calculator,Health & Fitness,"Pace, splits and finish time",std,25,3,10.3,"Audience, bundle (no medical claims)",Idea
+75,stretch-routine-timer,Stretch Routine Timer,Health & Fitness,Guided stretch sequence with countdowns,std,25,4,12.3,"Audience, bundle (no medical claims)",Idea
+10,serp-snippet-previewer,SERP Snippet Previewer,"Marketing, SEO & AEO",See a title and meta description as search would show it,std,25,5,14.3,Lead magnet for the drop-servicing business (best fit),Idea
+133,meta-tag-auditor,Meta Tag Auditor,"Marketing, SEO & AEO","Check title, description and OG tags for any URL","requests, bs4",45,4,11.0,Lead magnet for the drop-servicing business (best fit),Idea
+183,keyword-density-checker,Keyword Density Checker,"Marketing, SEO & AEO",On-page keyword counts and stuffing flag,std,25,3,10.3,Lead magnet for the drop-servicing business (best fit),Idea
+143,schema-markup-generator,Schema Markup Generator,"Marketing, SEO & AEO","JSON-LD for FAQ, Product and LocalBusiness",std,45,4,11.0,Lead magnet for the drop-servicing business (best fit),Idea
+49,faq-schema-builder,FAQ Schema Builder,"Marketing, SEO & AEO","Questions in, FAQPage JSON-LD out",std,25,4,12.3,Lead magnet for the drop-servicing business (best fit),Idea
+163,llms-txt-generator,llms.txt Generator,"Marketing, SEO & AEO",Build an llms.txt file from a sitemap,requests,45,4,11.0,Lead magnet for the drop-servicing business (best fit),Idea
+245,ai-visibility-checker,AI Visibility Checker,"Marketing, SEO & AEO",Check whether a brand appears in LLM answers for your prompts,LLM API +API,90,5,10.0,Lead magnet for the drop-servicing business (best fit),Idea
+208,aeo-prompt-tracker,AEO Prompt Tracker,"Marketing, SEO & AEO",Log prompts and brand mentions over time,std,60,4,10.0,Lead magnet for the drop-servicing business (best fit),Idea
+193,robots-txt-tester,Robots.txt Tester,"Marketing, SEO & AEO",Test URLs against robots rules,std,25,3,10.3,Lead magnet for the drop-servicing business (best fit),Idea
+294,sitemap-validator,Sitemap Validator,"Marketing, SEO & AEO",Validate a sitemap and list issues,requests,45,3,9.0,Lead magnet for the drop-servicing business (best fit),Idea
+72,redirect-chain-checker,Redirect Chain Checker,"Marketing, SEO & AEO",Trace redirects and status codes,requests,25,4,12.3,Lead magnet for the drop-servicing business (best fit),Idea
+31,page-speed-snapshot,Page Speed Snapshot,"Marketing, SEO & AEO",Call the PageSpeed API and show scores,requests +API,45,5,13.0,Lead magnet for the drop-servicing business (best fit),Idea
+54,heading-structure-viewer,Heading Structure Viewer,"Marketing, SEO & AEO",H1 to H6 outline of any page,"requests, bs4",25,4,12.3,Lead magnet for the drop-servicing business (best fit),Idea
+251,internal-link-mapper,Internal Link Mapper,"Marketing, SEO & AEO",Link graph of a small site,networkx,90,5,10.0,Lead magnet for the drop-servicing business (best fit),Idea
+259,backlink-log,Backlink Log,"Marketing, SEO & AEO",Record backlinks and check they are still live,requests,45,3,9.0,Lead magnet for the drop-servicing business (best fit),Idea
+78,utm-link-builder,UTM Link Builder,"Marketing, SEO & AEO",Build and save tagged campaign URLs,std,25,4,12.3,Lead magnet for the drop-servicing business (best fit),Idea
+179,hashtag-set-builder,Hashtag Set Builder,"Marketing, SEO & AEO",Hashtag sets by topic from your own seed lists,std,25,3,10.3,Lead magnet for the drop-servicing business (best fit),Idea
+237,social-post-planner,Social Post Planner,"Marketing, SEO & AEO",Content calendar with captions per platform,std,60,4,10.0,Lead magnet for the drop-servicing business (best fit),Idea
+167,caption-length-checker,Caption Length Checker,"Marketing, SEO & AEO",Character limits per platform,std,25,3,10.3,Lead magnet for the drop-servicing business (best fit),Idea
+106,ad-copy-generator,Ad Copy Generator,"Marketing, SEO & AEO",Headline variations within ad character limits,std,45,4,11.0,Lead magnet for the drop-servicing business (best fit),Idea
+42,ad-budget-calculator,Ad Budget Calculator,"Marketing, SEO & AEO","Spend, CPC and conversions forecast",std,25,4,12.3,Lead magnet for the drop-servicing business (best fit),Idea
+68,roas-and-cpa-calculator,ROAS and CPA Calculator,"Marketing, SEO & AEO",Quick ad metrics with charts,matplotlib,25,4,12.3,Lead magnet for the drop-servicing business (best fit),Idea
+105,a-b-test-calculator,A/B Test Calculator,"Marketing, SEO & AEO",Statistical significance in one click,scipy,45,4,11.0,Lead magnet for the drop-servicing business (best fit),Idea
+312,content-brief-builder,Content Brief Builder,"Marketing, SEO & AEO",Outline and keywords from a topic,LLM API +API,60,3,8.0,Lead magnet for the drop-servicing business (best fit),Idea
+268,content-calendar-exporter,Content Calendar Exporter,"Marketing, SEO & AEO",Plan to CSV or ICS,std,45,3,9.0,Lead magnet for the drop-servicing business (best fit),Idea
+145,short-form-script-timer,Short-Form Script Timer,"Marketing, SEO & AEO",Script with timing per scene,std,45,4,11.0,Lead magnet for the drop-servicing business (best fit),Idea
+214,competitor-page-comparer,Competitor Page Comparer,"Marketing, SEO & AEO",Side-by-side on-page SEO comparison,"requests, bs4",60,4,10.0,Lead magnet for the drop-servicing business (best fit),Idea
+292,review-reply-writer,Review Reply Writer,"Marketing, SEO & AEO",Draft replies to reviews by rating and tone,LLM API +API,45,3,9.0,Lead magnet for the drop-servicing business (best fit),Idea
+316,local-listing-checker,Local Listing Checker,"Marketing, SEO & AEO","Compare name, address and phone across listings",requests,60,3,8.0,Lead magnet for the drop-servicing business (best fit),Idea
+323,client-report-builder,Client Report Builder,"Marketing, SEO & AEO",CSV metrics to a branded PDF report,reportlab,90,4,8.0,Lead magnet for the drop-servicing business (best fit),Idea
+29,open-graph-image-maker,Open Graph Image Maker,"Marketing, SEO & AEO",Social preview images from title text,pillow,45,5,13.0,Lead magnet for the drop-servicing business (best fit),Idea
+66,qr-generator,QR Code Generator,"Marketing, SEO & AEO","Text or a URL in, PNG out",qrcode,25,4,12.3,Lead magnet for the drop-servicing business (best fit),In catalog
+209,ai-chat,AI Chat Wrapper,AI & LLM,Desktop chat window that calls an LLM API,requests +API,60,4,10.0,"Pro tier, custom builds",In catalog
+289,prompt-library,Prompt Library,AI & LLM,"Save, tag and copy prompts",std,45,3,9.0,"Pro tier, custom builds",Idea
+231,prompt-tester,Prompt Tester,AI & LLM,Run one prompt across models and compare,requests +API,60,4,10.0,"Pro tier, custom builds",Idea
+152,summarizer,Summarizer,AI & LLM,"Paste text or a PDF, get a summary",requests +API,45,4,11.0,"Pro tier, custom builds",Idea
+285,meeting-notes-cleaner,Meeting Notes Cleaner,AI & LLM,Turn raw notes into action items,requests +API,45,3,9.0,"Pro tier, custom builds",Idea
+273,email-reply-drafter,Email Reply Drafter,AI & LLM,Draft replies in your tone,requests +API,45,3,9.0,"Pro tier, custom builds",Idea
+324,document-q-a,Document Q&A,AI & LLM,Ask questions about a local file,requests +API,90,4,8.0,"Pro tier, custom builds",Idea
+224,local-llm-chat,Local LLM Chat,AI & LLM,Chat with a local model through Ollama,requests,60,4,10.0,"Pro tier, custom builds",Idea
+298,text-classifier,Text Classifier,AI & LLM,Sort lines into categories with an LLM,requests +API,45,3,9.0,"Pro tier, custom builds",Idea
+211,alt-text-writer,Alt-Text Writer,AI & LLM,Alt text for a folder of images,requests +API,60,4,10.0,"Pro tier, custom builds",Idea
+261,batch-translator,Batch Translator,AI & LLM,Translate a CSV column,requests +API,45,3,9.0,"Pro tier, custom builds",Idea
+204,token-counter,Token Counter,AI & LLM,Count tokens and estimate cost,tiktoken,25,3,10.3,"Pro tier, custom builds",Idea
+184,llm-cost-calculator,LLM Cost Calculator,AI & LLM,Estimate monthly API spend from usage,std,25,3,10.3,"Pro tier, custom builds",Idea
+257,voice-assistant,Voice Assistant,AI & LLM,"Speak, get spoken answers",SpeechRecognition +API,90,5,10.0,"Pro tier, custom builds",Idea
+267,commit-message-writer,Commit Message Writer,AI & LLM,Generate commit messages from diffs,requests +API,45,3,9.0,"Pro tier, custom builds",Idea
+266,code-explainer,Code Explainer,AI & LLM,Explain pasted code line by line,requests +API,45,3,9.0,"Pro tier, custom builds",Idea
+247,agent-loop-visualizer,Agent Loop Visualizer,AI & LLM,Step through an AI agent's tool loop,std,90,5,10.0,"Pro tier, custom builds",Idea
+264,chat-export-viewer,Chat Export Viewer,AI & LLM,Browse exported chat logs with search,std,45,3,9.0,"Pro tier, custom builds",Idea
+293,rubber-duck,Rubber Duck,AI & LLM,Talk-through debugging partner,requests +API,45,3,9.0,"Pro tier, custom builds",Idea
+220,invoice-generator,Invoice Generator,Business & Freelance,Branded PDF invoices from a form,reportlab,60,4,10.0,Pro tier plus custom builds,Idea
+232,proposal-builder,Proposal Builder,Business & Freelance,Priced proposals from templates,reportlab,60,4,10.0,Pro tier plus custom builds,Idea
+213,client-crm-lite,Client CRM Lite,Business & Freelance,"Contacts, status and notes",std,60,4,10.0,Pro tier plus custom builds,Idea
+319,template-filler,Template Filler,Business & Freelance,Fill Word templates from a form,docxtpl,60,3,8.0,Pro tier plus custom builds,Idea
+127,hours-to-invoice,Hours to Invoice,Business & Freelance,Convert tracked hours into invoice lines,std,45,4,11.0,Pro tier plus custom builds,Idea
+222,lead-tracker,Lead Tracker,Business & Freelance,Pipeline board with follow-up dates,std,60,4,10.0,Pro tier plus custom builds,Idea
+176,follow-up-reminder,Follow-up Reminder,Business & Freelance,Nudge list with snooze,std,25,3,10.3,Pro tier plus custom builds,Idea
+274,email-template-manager,Email Template Manager,Business & Freelance,"Pick, fill and copy email templates",std,45,3,9.0,Pro tier plus custom builds,Idea
+15,business-card-maker,Business Card Maker,Business & Freelance,Print-ready card PNG or PDF,pillow,45,5,13.0,Pro tier plus custom builds,Idea
+64,pricing-calculator,Pricing Calculator,Business & Freelance,Package prices and margins,std,25,4,12.3,Pro tier plus custom builds,Idea
+140,project-profit-tracker,Project Profit Tracker,Business & Freelance,Revenue minus costs per client,std,45,4,11.0,Pro tier plus custom builds,Idea
+297,testimonial-collector,Testimonial Collector,Business & Freelance,Form that stores and exports testimonials,std,45,3,9.0,Pro tier plus custom builds,Idea
+198,slot-planner,Slot Planner,Business & Freelance,Generate available appointment slots to paste,std,25,3,10.3,Pro tier plus custom builds,Idea
+60,onboarding-checklist,Onboarding Checklist,Business & Freelance,Reusable client checklists with progress,std,25,4,12.3,Pro tier plus custom builds,Idea
+246,agency-dashboard,Agency Dashboard,Business & Freelance,Per-client KPIs in one window,matplotlib,90,5,10.0,Pro tier plus custom builds,Idea
+41,weather-card,Weather Card,Dashboards & Data Viz,"Type a city, get live weather in a clean card",requests,45,5,13.0,Custom-build upsell,In catalog
+97,personal-dashboard,Personal Dashboard,Dashboards & Data Viz,"Clock, weather, tasks and quotes on one screen",requests,60,5,12.0,Custom-build upsell,Idea
+23,github-profile-stats,GitHub Profile Stats,Dashboards & Data Viz,"Stars, commits and languages for any user",requests,45,5,13.0,Custom-build upsell,Idea
+137,news-ticker,News Ticker,Dashboards & Data Viz,Scrolling headlines bar,feedparser,45,4,11.0,Custom-build upsell,Idea
+13,word-cloud-maker,Word Cloud Maker,Dashboards & Data Viz,Word cloud from any text,wordcloud,25,5,14.3,Custom-build upsell,Idea
+40,timeline-maker,Timeline Maker,Dashboards & Data Viz,Event timelines exported to PNG,matplotlib,45,5,13.0,Custom-build upsell,Idea
+80,world-clock,World Clock,Dashboards & Data Viz,Multi-timezone clocks with meeting overlap,std,25,4,12.3,Custom-build upsell,Idea
+16,calendar-heatmap,Calendar Heatmap,Dashboards & Data Viz,Activity heatmap from any dates CSV,matplotlib,45,5,13.0,Custom-build upsell,Idea
+95,network-graph-viewer,Network Graph Viewer,Dashboards & Data Viz,Draw relationships from a CSV,networkx,60,5,12.0,Custom-build upsell,Idea
+221,kanban-metrics,Kanban Metrics,Dashboards & Data Viz,Cycle-time charts from task data,matplotlib,60,4,10.0,Custom-build upsell,Idea
+186,name-generator,Name Generator,Creative & Fun,"Business, band and character names",std,25,3,10.3,Audience growth,Idea
+67,quote-card-maker,Quote Card Maker,Creative & Fun,Random quote cards with copy and save,pillow,25,4,12.3,Audience growth,Idea
+98,pixel-art-editor,Pixel Art Editor,Creative & Fun,Draw and export sprites,std,60,5,12.0,Audience growth,Idea
+86,drawing-pad,Drawing Pad,Creative & Fun,Paint with brushes and undo,std,60,5,12.0,Audience growth,Idea
+1,ascii-art-converter,ASCII Art Converter,Creative & Fun,Turn images into ASCII art,pillow,25,5,14.3,Audience growth,Idea
+88,fractal-explorer,Fractal Explorer,Creative & Fun,Zoomable Mandelbrot viewer,"numpy, pillow",60,5,12.0,Audience growth,Idea
+22,generative-art-maker,Generative Art Maker,Creative & Fun,"Random patterns, exportable",pygame,45,5,13.0,Audience growth,Idea
+25,mandala-drawer,Mandala Drawer,Creative & Fun,Symmetry drawing tool,std,45,5,13.0,Audience growth,Idea
+45,color-mixer,Color Mixer,Creative & Fun,Blend colours and see the result,std,25,4,12.3,Audience growth,Idea
+57,magic-8-ball,Magic 8 Ball,Creative & Fun,"Ask a question, shake for an answer",std,25,4,12.3,Audience growth,Idea
+200,story-prompt-generator,Story Prompt Generator,Creative & Fun,Random writing prompts,std,25,3,10.3,Audience growth,Idea
+6,gradient-generator,Gradient Generator,Creative & Fun,CSS gradient builder with live preview,std,25,5,14.3,Audience growth,Idea
+7,matrix-rain,Matrix Rain,Creative & Fun,Falling-character screensaver,pygame,25,5,14.3,Audience growth,Idea
+33,particle-playground,Particle Playground,Creative & Fun,Mouse-driven particles,pygame,45,5,13.0,Audience growth,Idea
+69,random-walk-visualizer,Random Walk Visualizer,Creative & Fun,Watch random walks diverge,matplotlib,25,4,12.3,Audience growth,Idea
+99,serial-monitor,Serial Monitor,Home & Hardware,Read and plot microcontroller serial data,pyserial,60,5,12.0,"Audience, niche bundle",Idea
+249,esp32-data-logger,ESP32 Data Logger,Home & Hardware,Log sensor readings to CSV with a live chart,"pyserial, matplotlib",90,5,10.0,"Audience, niche bundle",Idea
+252,led-strip-controller,LED Strip Controller,Home & Hardware,Colours and effects over serial,pyserial,90,5,10.0,"Audience, niche bundle",Idea
+63,plant-watering-tracker,Plant Watering Tracker,Home & Hardware,Schedule and log watering,std,25,4,12.3,"Audience, niche bundle",Idea
+281,home-inventory,Home Inventory,Home & Hardware,"Items, rooms and values",std,45,3,9.0,"Audience, niche bundle",Idea
+139,pantry-tracker,Pantry Tracker,Home & Hardware,Expiry dates and a shopping list,std,45,4,11.0,"Audience, niche bundle",Idea
+169,chore-rotator,Chore Rotator,Home & Hardware,Fair chore schedule for a household,std,25,3,10.3,"Audience, niche bundle",Idea
+12,wi-fi-qr-maker,Wi-Fi QR Maker,Home & Hardware,QR code so guests can join your Wi-Fi,qrcode,25,5,14.3,"Audience, niche bundle",Idea
+322,barcode-scanner-log,Barcode Scanner Log,Home & Hardware,Scan with a webcam and log to a sheet,"opencv, pyzbar",90,4,8.0,"Audience, niche bundle",Idea
+330,webcam-motion-logger,Webcam Motion Logger,Home & Hardware,Detect and timestamp motion,opencv,90,4,8.0,"Audience, niche bundle",Idea
+236,sensor-alarm-panel,Sensor Alarm Panel,Home & Hardware,Threshold alerts for sensor streams,pyserial,60,4,10.0,"Audience, niche bundle",Idea
+223,link-shortener,Link Shortener,Web Apps & APIs,Self-hosted short links with click counts,flask,60,4,10.0,Hosted Pro tier,Idea
+318,snippet-share,Snippet Share,Web Apps & APIs,Share text snippets with expiry,flask,60,3,8.0,Hosted Pro tier,Idea
+299,url-health-api,URL Health API,Web Apps & APIs,JSON API that checks uptime,fastapi,45,3,9.0,Hosted Pro tier,Idea
+21,data-explorer-web-app,Data Explorer Web App,Web Apps & APIs,Upload a CSV and explore it interactively,streamlit,45,5,13.0,Hosted Pro tier,Idea
+255,seo-toolkit-web-app,SEO Toolkit Web App,Web Apps & APIs,Bundle of audit tools in the browser,streamlit,90,5,10.0,Hosted Pro tier,Idea
+301,waitlist-page,Waitlist Page,Web Apps & APIs,Collect emails to a CSV or database,flask,45,3,9.0,Hosted Pro tier,Idea
+277,feedback-backend,Feedback Backend,Web Apps & APIs,Receive and list feedback,flask,45,3,9.0,Hosted Pro tier,Idea
+229,poll-maker,Poll Maker,Web Apps & APIs,Create polls and share results,flask,60,4,10.0,Hosted Pro tier,Idea
+226,mini-blog-engine,Mini Blog Engine,Web Apps & APIs,Markdown posts to a static site,std,60,4,10.0,Hosted Pro tier,Idea
+327,static-site-generator,Static Site Generator,Web Apps & APIs,Folder of Markdown to a website,std,90,4,8.0,Hosted Pro tier,Idea
+219,image-gallery-upload,Image Gallery Upload,Web Apps & APIs,Upload and browse images,flask,60,4,10.0,Hosted Pro tier,Idea
+161,webhook-inspector,Webhook Inspector,Web Apps & APIs,Capture and display incoming webhooks,flask,45,4,11.0,Hosted Pro tier,Idea
+238,status-page,Status Page,Web Apps & APIs,Public uptime page from monitor logs,flask,60,4,10.0,Hosted Pro tier,Idea
+325,faq-chatbot-embed,FAQ Chatbot Embed,Web Apps & APIs,FAQ bot widget for a website,flask,90,4,8.0,Hosted Pro tier,Idea
+309,todo-cli,Todo CLI,Terminal Mini Tools,"Add, list and finish tasks from the terminal",std,25,2,8.3,"GitHub stars, sponsors",Idea
+307,stopwatch-cli,Stopwatch CLI,Terminal Mini Tools,Lap timer in the terminal,std,25,2,8.3,"GitHub stars, sponsors",Idea
+39,terminal-dashboard,Terminal Dashboard,Terminal Mini Tools,Live system stats with rich,"rich, psutil",45,5,13.0,"GitHub stars, sponsors",Idea
+306,password-cli,Password CLI,Terminal Mini Tools,Generate passwords from the command line,std,25,2,8.3,"GitHub stars, sponsors",Idea
+175,file-tree-printer,File Tree Printer,Terminal Mini Tools,Pretty directory trees,rich,25,3,10.3,"GitHub stars, sponsors",Idea
+333,notes-cli,Notes CLI,Terminal Mini Tools,Quick notes with tags and search,std,45,2,7.0,"GitHub stars, sponsors",Idea
+263,bulk-downloader,Bulk Downloader,Terminal Mini Tools,Download a list of URLs in parallel,requests,45,3,9.0,"GitHub stars, sponsors",Idea
+191,quick-calc,Quick Calc,Terminal Mini Tools,Natural-language calculator,std,25,3,10.3,"GitHub stars, sponsors",Idea
+76,terminal-pomodoro,Terminal Pomodoro,Terminal Mini Tools,Timer with a progress bar,rich,25,4,12.3,"GitHub stars, sponsors",Idea
+332,git-helper,Git Helper,Terminal Mini Tools,Common git flows as short commands,std,45,2,7.0,"GitHub stars, sponsors",Idea
+331,env-switcher,Env Switcher,Terminal Mini Tools,Swap between project environments,std,45,2,7.0,"GitHub stars, sponsors",Idea
+153,terminal-typing-test,Terminal Typing Test,Terminal Mini Tools,Typing test in curses,curses,45,4,11.0,"GitHub stars, sponsors",Idea

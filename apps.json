@@ -1,0 +1,154 @@
+{
+  "apps": [
+    {
+      "slug": "pomodoro",
+      "name": "Focus Timer",
+      "tagline": "A clean Pomodoro timer with a progress ring and session counter.",
+      "description": "A distraction-free Pomodoro timer. Work in 25-minute focus blocks, take 5-minute breaks, and get a longer break after every fourth session. A progress ring shows time left at a glance, and the window title keeps counting so you can follow it from the taskbar.",
+      "features": [
+        "Focus, short break and long break modes",
+        "Animated progress ring",
+        "Start, pause, reset and skip, or just press Space",
+        "Session counter",
+        "Countdown shown in the window title"
+      ],
+      "status": "ready",
+      "version": "",
+      "category": "Productivity",
+      "stack": ["Python", "Tkinter"],
+      "buy_url": ""
+    },
+    {
+      "slug": "password-gen",
+      "name": "Password Generator",
+      "tagline": "Generate strong random passwords and copy them in one click.",
+      "description": "Generate strong random passwords with Python's cryptographically secure secrets module. Choose the length and character sets, copy with one click, and see an entropy-based strength estimate. Nothing is stored or sent anywhere.",
+      "features": [
+        "Length from 8 to 64 characters",
+        "Upper, lower, digits and symbols toggles",
+        "Optional filter for look-alike characters (I, l, 1, O, 0, o)",
+        "One-click copy; clipboard clears after 30 seconds if unchanged",
+        "Works fully offline"
+      ],
+      "status": "ready",
+      "version": "",
+      "category": "Security",
+      "stack": ["Python", "Tkinter"],
+      "buy_url": ""
+    },
+    {
+      "slug": "typing-test",
+      "name": "Typing Speed Test",
+      "tagline": "30 seconds, live feedback, WPM and accuracy with a saved best score.",
+      "description": "A 30-second typing speed test with live per-letter feedback. See your words per minute and accuracy, and track your personal best across sessions.",
+      "features": [
+        "Timer starts on your first keystroke",
+        "Green and red feedback for every character",
+        "WPM and accuracy results",
+        "Best score saved locally",
+        "Press Esc to restart instantly"
+      ],
+      "status": "ready",
+      "version": "",
+      "category": "Productivity",
+      "stack": ["Python", "Tkinter"],
+      "buy_url": ""
+    },
+    {
+      "slug": "file-organizer",
+      "name": "File Organizer",
+      "tagline": "Sort a messy folder into subfolders by file type.",
+      "status": "planned",
+      "category": "Utilities",
+      "stack": ["Python"]
+    },
+    {
+      "slug": "snake",
+      "name": "Snake",
+      "tagline": "The classic, rebuilt in Pygame.",
+      "status": "planned",
+      "category": "Games",
+      "stack": ["Python", "Pygame"]
+    },
+    {
+      "slug": "expense-tracker",
+      "name": "Expense Tracker",
+      "tagline": "Add and delete entries, see totals, saved to CSV.",
+      "status": "planned",
+      "category": "Finance",
+      "stack": ["Python", "Tkinter"]
+    },
+    {
+      "slug": "quiz-app",
+      "name": "Quiz Maker",
+      "tagline": "Load questions from a JSON file and get a score at the end.",
+      "status": "planned",
+      "category": "Education",
+      "stack": ["Python", "Tkinter"]
+    },
+    {
+      "slug": "weather-card",
+      "name": "Weather Card",
+      "tagline": "Type a city, get live weather in a clean card.",
+      "status": "planned",
+      "category": "Utilities",
+      "stack": ["Python", "Tkinter"]
+    },
+    {
+      "slug": "markdown-preview",
+      "name": "Markdown to HTML",
+      "tagline": "Paste Markdown, get a live HTML preview.",
+      "status": "planned",
+      "category": "Developer",
+      "stack": ["Python", "Tkinter"]
+    },
+    {
+      "slug": "qr-generator",
+      "name": "QR Code Generator",
+      "tagline": "Turn any text or URL into a PNG QR code.",
+      "status": "planned",
+      "category": "Utilities",
+      "stack": ["Python"]
+    },
+    {
+      "slug": "habit-tracker",
+      "name": "Habit Tracker",
+      "tagline": "Daily check-offs and streaks stored in SQLite.",
+      "status": "planned",
+      "category": "Productivity",
+      "stack": ["Python", "SQLite"]
+    },
+    {
+      "slug": "currency-converter",
+      "name": "Currency Converter",
+      "tagline": "Live exchange rates with a swap button.",
+      "status": "planned",
+      "category": "Finance",
+      "stack": ["Python", "Tkinter"]
+    },
+    {
+      "slug": "image-resizer",
+      "name": "Image Resizer",
+      "tagline": "Batch resize and compress a folder of images.",
+      "status": "planned",
+      "category": "Utilities",
+      "stack": ["Python", "Pillow"]
+    },
+    {
+      "slug": "price-scraper",
+      "name": "Web Scraper to Excel",
+      "tagline": "Pull prices or headlines into a spreadsheet.",
+      "status": "planned",
+      "category": "Developer",
+      "stack": ["Python", "openpyxl"]
+    },
+    {
+      "slug": "ai-chat",
+      "name": "AI Chat Wrapper",
+      "tagline": "A small desktop chat window that calls an LLM API.",
+      "status": "planned",
+      "category": "Developer",
+      "stack": ["Python", "Tkinter"]
+    }
+  ]
+}

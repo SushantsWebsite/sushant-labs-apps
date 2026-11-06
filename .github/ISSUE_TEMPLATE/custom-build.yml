@@ -1,0 +1,46 @@
+name: Custom build request
+description: Want one of these apps tailored to your business, or a brand-new tool? Tell me what you need.
+title: "[Custom build] "
+labels: ["custom-build"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Issues on GitHub are public. Please do not paste passwords, client data or anything confidential here.
+  - type: dropdown
+    id: base-app
+    attributes:
+      label: Closest existing app
+      options:
+        - Focus Timer
+        - Password Generator
+        - Typing Speed Test
+        - Something else / brand new tool
+    validations:
+      required: true
+  - type: textarea
+    id: need
+    attributes:
+      label: What do you need built or changed?
+      description: Who will use it, what should it do, and what does "done" look like?
+    validations:
+      required: true
+  - type: dropdown
+    id: budget
+    attributes:
+      label: Rough budget
+      options:
+        - Not sure yet
+        - Under $100
+        - $100 to $500
+        - $500 to $2,000
+        - Over $2,000
+    validations:
+      required: true
+  - type: input
+    id: contact
+    attributes:
+      label: Best way to reach you
+      description: Email or a link. This will be public in the issue, so use a work address you are happy to share.
+    validations:
+      required: true
